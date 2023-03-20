@@ -1,1 +1,2 @@
-VimCrypt~03!xΖ’vΝ)ΰ‡χυG~x;2$θγόƒ\<©νπΰΡ΄΄ήv®})ε‘KΣ
+#!/bin/bash
+gcc -c $CFIL
